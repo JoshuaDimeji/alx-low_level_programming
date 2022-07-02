@@ -1,6 +1,8 @@
 #include <stdio.h>
-/* main- code to put the message
- * and some stuff */
+/**
+ *  * main - code to put a message
+ *   * Return: Always 0
+ *    */
 
 int main(void)
 {
