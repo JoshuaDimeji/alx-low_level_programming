@@ -3,7 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - function to print last digit of number stored
+ * main - function to assign random numberto variable n
+ * and  print last digit of number stored
  * Return: 0 (Successful)
  */
 
@@ -18,15 +19,15 @@ int main(void)
 	printf("%s %d is %d and is ", last, n, n % 10);
 	if (n % 10 > 5)
 	{
-		printf("greater than 5\n");
+	printf("greater than 5\n");
 	}
 	else if (n % 10 == 0)
 	{
-		printf("0\n");
+	printf("0\n");
 	}
 	else
 	{
-		printf("less than 6 and not 0\n ");
+	printf("less than 6 and not 0\n");
 	}
 	return (0);
 }
