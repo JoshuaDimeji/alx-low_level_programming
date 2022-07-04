@@ -1,7 +1,7 @@
-#include <stdlib>
+#include <stdlib.h>
 #include <stdio.h>
 /**
- * main - print single digits in base 10 follwed by newline
+ * main - print all single digit numbers of base 10 followed by newline
  * Return: 0 (successful)
  */
 int main(void)
