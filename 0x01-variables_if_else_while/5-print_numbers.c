@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * main - Prints all single digits of base 10
- * Reurtn: 0 (Successful)
+ * Return: 0 (Successful)
  */
 int main(void)
 {
