@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Prints the alphabet in lowercase
- *
- * Return: 0 if success
+ * main -function to print alphabet in lowercase
+ * with a new line
+ * Return: 0 (successful)
  */
 int main(void)
 {
@@ -13,7 +13,7 @@ int main(void)
 
 	while (d <= 'z')
 	{
-	putchar(d)
+	putchar(d);
 	d++;
 	}
 	putchar('\n');
