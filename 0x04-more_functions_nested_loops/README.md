@@ -1,1 +1,1 @@
-Read the fvcking manual
+Read the manual for proper guide
