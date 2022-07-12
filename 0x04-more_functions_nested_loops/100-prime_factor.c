@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <math.h>
 /**
  * main - program that finds and prints the
@@ -9,9 +8,12 @@
 int main(void)
 {
 
-	long int num 612852475143;
-	long int max = -1;
+	long int num;
+	long int max;
 	long int i;
+
+	num = 612852475143;
+	max = -1;
 
 	while (num % 2 == 0)
 	{
