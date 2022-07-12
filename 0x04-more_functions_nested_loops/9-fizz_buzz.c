@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - program to print the numbers from 1 to 100, followed by a new line, in a FizzBuzz manner
+ * main - program to print the numbers from 1 to 100,
+ * followed by a new line, in a FizzBuzz manner
  * Return: Always 0, Successful
  */
 int main(void)
