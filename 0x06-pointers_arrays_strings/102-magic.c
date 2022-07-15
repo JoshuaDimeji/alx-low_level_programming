@@ -1,8 +1,4 @@
 #include <stdio.h>
-/**
- * main - rewrite a code
- * Return: successful
- */
 
 int main(void)
 {
