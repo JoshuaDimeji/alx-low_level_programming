@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * rot13 - function that encodes a string using rot13
+ * rot13 - function that encodes a string in rot13
  * @s: string to be encoded
- * Return: the encoded string
+ * Return: the resulting string
  */
-char *rot13(char *)
+char *rot13(char *s)
 {
 int i, j;
 char a[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
