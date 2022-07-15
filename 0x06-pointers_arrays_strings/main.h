@@ -1,5 +1,5 @@
-#ifndef #MAIN_H
-#define #MAIN_H
+#ifndef _MAIN_H_
+#define _MAIN_H_
 /**
  * This contain headers for files in 0x06-pointers_arrays_strings
  */
