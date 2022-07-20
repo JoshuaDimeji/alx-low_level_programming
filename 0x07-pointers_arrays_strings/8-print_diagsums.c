@@ -4,7 +4,6 @@
  * diagonals of a square matrix of integers
  * @a: square matrix to print the sum of the diagonal
  * @size: size of the matrix
- * Return: diagonals
  */
 void print_diagsums(int *a, int size)
 {
