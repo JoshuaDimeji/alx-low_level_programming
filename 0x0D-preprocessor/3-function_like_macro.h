@@ -2,8 +2,9 @@
 #define FUNCTION_LIKE_MACRO_H
 /**
  * constructing a function-like macro that finds absolute values
- * @x: the input
+ * @x: the value to compute
  */
+
 #define ABS(x) ((x) < 0 ? (-x) : (x))
 
 #endif
