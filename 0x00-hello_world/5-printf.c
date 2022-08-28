@@ -2,7 +2,7 @@
 /**
  * main - texto
  *
- * Return: text in printf
+ * Return: successful (0)
  */
 
 int main(void)
